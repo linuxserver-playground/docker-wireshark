@@ -10,6 +10,9 @@ upstream:
     type: alpine_apk
     repo_url: http://dl-cdn.alpinelinux.org/alpine/v3.24/community/
     package: wireshark
+  sponsor:
+  - name: Wireshark Foundation donate
+    url: https://wiresharkfoundation.org/donate/
 
 release:
   branch: master
