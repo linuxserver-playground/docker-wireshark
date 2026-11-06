@@ -987,8 +987,8 @@ webrtc-audio-processing-1                                                     1.
 websockets                                                                    17.4                                    python                           
 wheel                                                                         0.46.3                                  python                           
 wipefs                                                                        2.42.3-r1                               apk                              
-wireshark                                                                     4.6.6-r0                                apk                              
-wireshark-common                                                              4.6.6-r0                                apk                              
+wireshark                                                                     4.6.9-r0                                apk                              
+wireshark-common                                                              4.6.9-r0                                apk                              
 wl-clipboard                                                                  2.2.1-r1                                apk                              
 wlr-randr                                                                     0.5.0-r1                                apk                              
 wlroots0.19                                                                   0.19.3-r1                               apk                              
