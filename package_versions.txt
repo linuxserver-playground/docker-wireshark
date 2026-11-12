@@ -104,7 +104,7 @@ dunst                                                                         1.
 dunstify                                                                      1.13.0-r0                               apk                              
 encodings                                                                     1.1.0-r0                                apk                              
 eudev-libs                                                                    3.2.14-r6                               apk                              
-fastapi                                                                       0.162.0                                 python                           
+fastapi                                                                       0.162.2                                 python                           
 fcft                                                                          3.3.3-r0                                apk                              
 fftw-single-libs                                                              3.3.11-r0                               apk                              
 file                                                                          5.47-r2                                 apk                              
@@ -649,7 +649,7 @@ kbd                                                                           2.
 kbd-misc                                                                      2.8.0-r0                                apk                              
 keyutils-libs                                                                 1.6.3-r4                                apk                              
 krb5-conf                                                                     1.0-r2                                  apk                              
-krb5-libs                                                                     1.22.2-r1                               apk                              
+krb5-libs                                                                     1.22.3-r0                               apk                              
 labwc                                                                         0.20.0-r0                               apk                              
 labwc-lang                                                                    0.20.0-r0                               apk                              
 lame                                                                          libs-3.100-r5                           apk                              
@@ -700,12 +700,12 @@ libgcrypt                                                                     1.
 libglycin                                                                     2.1.5-r0                                apk                              
 libgomp                                                                       15.2.0-r5                               apk                              
 libgpg-error                                                                  1.61-r0                                 apk                              
-libheif                                                                       1.23.4-r0                               apk                              
-libheif-dav1d                                                                 1.23.4-r0                               apk                              
-libheif-jpeg                                                                  1.23.4-r0                               apk                              
-libheif-libde265                                                              1.23.4-r0                               apk                              
-libheif-openjpeg                                                              1.23.4-r0                               apk                              
-libheif-x264                                                                  1.23.4-r0                               apk                              
+libheif                                                                       1.23.7-r0                               apk                              
+libheif-dav1d                                                                 1.23.7-r0                               apk                              
+libheif-jpeg                                                                  1.23.7-r0                               apk                              
+libheif-libde265                                                              1.23.7-r0                               apk                              
+libheif-openjpeg                                                              1.23.7-r0                               apk                              
+libheif-x264                                                                  1.23.7-r0                               apk                              
 libice                                                                        1.1.2-r0                                apk                              
 libid3tag                                                                     0.16.3-r0                               apk                              
 libidn2                                                                       2.3.8-r0                                apk                              
